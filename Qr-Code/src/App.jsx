@@ -1,7 +1,9 @@
+import Screen from "./components/Screen";
+
 function App() {
   return (
-    <div className="text-blue-400">
-      <h1>Hello</h1>
+    <div>
+      <Screen />
     </div>
   );
 }
